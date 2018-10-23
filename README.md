@@ -1,0 +1,2 @@
+# BaiTapC
+bài tập c
